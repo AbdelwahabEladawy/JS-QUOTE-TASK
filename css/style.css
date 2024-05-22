@@ -1,0 +1,13 @@
+h1{
+    font-size: 5rem;
+ 
+}
+#change{
+    font-size: 3rem;
+    border: 2px solid rgb(205, 233, 255);
+    padding: 30px;
+}
+
+.btn{
+    padding: 30px;
+}
